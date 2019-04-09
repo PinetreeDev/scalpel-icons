@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
   <title>mail</title>
-  <path d="M16,64V192H240V64Zm7.467,120V168l52.266-28,14.934,8Zm209.066,0-67.2-36,14.934-8,52.266,28Zm0-88L128,152,23.467,96V72L128,128,232.533,72Z"/>
+  <g>
+    <polyline points="192 88 128 152 64 88" fill="none" stroke-miterlimit="10"/>
+    <line x1="192" y1="168" x2="152" y2="128" fill="none" stroke-miterlimit="10"/>
+    <line x1="104" y1="128" x2="64" y2="168" fill="none" stroke-miterlimit="10"/>
+    <rect x="64" y="88" width="128" height="80" fill="none" stroke-miterlimit="10"/>
+  </g>
 </svg>
